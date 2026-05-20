@@ -1,0 +1,31 @@
+Table 7.5 High Speed Rail Long Run Full Costs,,,,,,,
+,,,,,,,
+,,San Francisco,Fresno,Fresno,Bakersfield,Bakersfield,
+,,Los Angeles,San Francisco,Los Angeles,San Francisco,Los Angeles,TOTAL
+,,,,,,,
+,pkt/year ('000),5177696.0,94866.0,245110.0,55902.0,79765.0,5653339.0
+,Distance (km),677.0,291.0,386.0,462.0,215.0,
+,,,,,,,
+Cost Category,Average Cost,,,,,,
+Infrastructure: Construction and Maintenance,0.129,667922.784,12237.714,31619.190000000002,7211.358,10289.685,729280.731
+         (track and signalling),,,,,,,
+,,,,,,,
+Carrier: Capital Cost (Trains),0.01,51776.96,948.66,2451.1,559.02,797.65,56533.39
+Carrier: Operating Cost (Railroad operations),0.05,258884.80000000002,4743.3,12255.5,2795.1000000000004,3988.25,282666.95
+,,,,,,,
+External: Accidents,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+External: Congestion,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+External: Noise,0.002,10355.392,189.732,490.22,111.804,159.53,11306.678
+External: Pollution,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,
+User: Time,0.044,207107.84,5691.96,9804.4,2795.1000000000004,3190.6,248746.916
+,,,,,,,
+Total Cost by HSR,0.235,1216758.5599999998,22293.51,57600.85,13136.97,18744.774999999998,1328534.665
+,,,,,,,
+Cost per passenger kilometer traveled,,0.23499999999999996,0.235,0.235,0.235,0.23499999999999996,0.23500000000000001
+,,,,,,,
+External Cost per HSR Trip,,1.354,0.582,0.772,0.924,0.43,1.2985228223533032
+Internal Cost per HSR Trip,,155.03300000000002,72.459,88.394,110.41800000000002,49.23499999999999,152.01827779888416
+Full Cost per HSR Trip,,159.09499999999997,68.38499999999999,90.71,108.57,50.52499999999999,152.57643162651308
+,,,,,,,
+note: see chapter 6 for details; full costs in thousands; demand estimates from Leavitt et al. 1993 (IURD #609) ,,,,,,,

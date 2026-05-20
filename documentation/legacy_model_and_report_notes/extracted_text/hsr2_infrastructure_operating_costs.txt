@@ -1,0 +1,550 @@
+
+2. Infrastructure and Operating Costs of Existing High Speed Rail System
+
+
+
+
+
+
+2.1 Infrastructure Costs
+
+South-East TGV
+
+The southern section of the French South-East TGV high speed line (170 miles) came into service in 1981. At this time the travel time from Paris to Lyon was 2 hours and 40 minutes. The northern section of the new line (71 miles) opened to traffic in 1983 and provided a reduction in travel time of 40 minutes. The estimated cost of the new line was 2,901 Millions of French Francs (1975 prices) while the actual cost was 2,926 millions of French Francs, indicating an overrun of only 1%. The overrun for the rolling stock was 3.8%. The assessment of investments for the infrastructure, the superstructure and the South-East TGV fleet are presented in Table 2.1.
+
+Atlantic TGV
+
+The Atlantic TGV was also commissioned in two stages : the western branch (180 kilometers) between Paris and Le Mans towards Rennes, Nantes and Brittany in September 1989 and the southwestern branch (101 kilometers) between Courtalain junction on the Paris-Le Mans high speed line and Tours towards Bordeaux, Tarbes, Toulouse and Spain in September 1990. The assessment of investments for the infrastructure, the superstructure and the Atlantic TGV fleet are presented in Table 2.1. Construction costs have amounted to ECU 1.45 billion, less than 2% in excess of project estimates. Atlantic TGV rolling stock is highly superior technologically in terms of performance (power rating of 8,800 kW against 6,450 kW for the South-East TGV fleet), capacity (485 seats compared with 368) and comfort. Maximum revenue-service speed for Atlantic TGV trainsets is 300 kph on the new lime, compared with 270 kph for the South-East TGV (1,991 km have been covered at over 400 kph and 696 km at over 450 kph).
+
+Mediterranean and East TGV
+
+Since construction cost estimates for South-East and Atlantic TGV were extremely close to the actual costs of construction, cost estimates for the next two TGV lines planned to be build before 2001 (Mediterranean TGV from Valence to Marseille and Montpellier and East TGV  
+
+ASSESSMENT OF INVESTMENTS
+
+South-East TGV
+Atlantic 
+TGV
+Mediterranean TGV1
+East
+TGV11975 MFF1983 MFF1991 MFF1992 MFFINFRASTRUCTURELand purchase, plot regrouping, compensation payments1415081,2101,489Preparatory work, earthworks, drainage/sanitation, roads, miscellaneous9931,2698,5008,383Civil engineering structures3772,6224,6704,403Road safety measures, fencing of right of way, miscellaneous7992830854TOTAL FOR  RAILROAD INFRASTRUCTURE1,5904,49115,21015,129SUPERSTRUCTURETrack, ballasting6251,0801,8552,938Safety/signaling and telecommunication installations2486531,2401,598Electric traction installation2495439901,471Terminal installations  and buildings214490605558TOTAL FOR RAILROAD SUPERSTRUCTURE1,3362,7664,6906,565TOTAL COST FOR HIGH SPEED LINE 2,9267,25719,90021,694Length of the High Speed Line (in kilometers)417282TGV TRAINSETS2.5451.16*Number of Trainsets10995TOTAL INVESTMENTS
+5,471
+* Millions of 1990 ECU
+1 Estimates
+Table 2.1
+from Paris to Strasbourg) may be viewed as an actualization of South-East and Atlantic TGV data listed in Table 2.1. 
+
+Infrastructure cost can vary by a factor of three depending on the structures required (bridges, viaducts, etc.) and the cost of building them, which differs greatly from one country to another. Nonetheless, on the basis of what is known today, one can say that, globally, the cost of building one kilometer of new high speed line ranges from 4 to 8 million ECU in 1989 (Pavaux, 1991).
+
+Charges for the new line and interest and depreciation of rolling stock for the South-East TGV are shown in Table 2.2 for the years 1981 through 1991. Table 2.2 also indicates the gross operating revenue, the gross margin and the net contribution of the South-East TGV for the corresponding years.
+
+
+SOUTH-EAST TGV BUSINESS ACCOUNT
+
+In Millions of 1991 US DollarsYear of Operation19811982198319841985198619871988198919901991
+Passenger Revenue
+40
+219
+368
+559
+676
+678
+774
+828
+881
+912
+942TGV Mail Caring Revenue00016677789Total Revenue40219368560682685781835889920951
+Operating Costs
+22
+96
+165
+195
+241
+256
+271
+284
+299
+308
+322Gross Operating Surplus18123203365441429510551590612629Interest and Depreciation of Rolling Stock (Annuities)2233547484909397100102109Gross Margin-490149291357339417454490510520Charges for the New Line2213515821517816011811410910294
+South-East TGV Net Contribution
+
+-26
+-45
+-9
+76
+179
+179
+299
+340
+381
+408
+426Source : SNCF
+Table 2.2
+Summary of Accounts for South-East TGV Activities
+
+
+SNCF asserts that the entire system’s costs were paid for 12 years after it became operational in 1981. The South-East TGV was entirely funded by the SNCF through loans raised on the finance markets. The internal rate of return was estimated to be 15% while the external rate of return was 30%.
+
+
+2.2 Operating Cost for Existing High Speed Rail Systems
+
+
+Tables 2.3 indicates operating cost for the South-East TGV with the following breakdown : rolling stock maintenance, track maintenance , energy, sales and reservations, drivers, train crews, and employers tax for the years 1981 though 1992.
+
+
+
+
+ SOUTH-EAST TGV OPERATING COST
+ 
+in Millions of 1991 US Dollars
+Year of Operation
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+Rolling Stock Maintenance
+6
+26
+51
+48
+79
+75
+76
+81
+87
+98
+
+Track Maintenance Costs
+4
+17
+22
+
+15
+20
+2224
+26
+26
+27
+Energy
+2
+15
+27
+
+50
+40
+4852
+55
+59
+59
+Sales and Administration
+
+23
+40
+61
+82
+82
+83
+83
+86
+Drivers
+
+6
+10
+
+14
+17
+1819
+20
+21
+23
+Train Crews
+1
+6
+10
+13
+15
+16
+19
+20
+22
+23
+25
+Employers Tax
+3
+4
+6
+8
+6
+6
+6
+6
+7
+7
+7
+TOTAL OPERATING COSTS
+
+22
+96
+165
+195
+241
+256
+271
+284
+299
+308
+322    Source : SNCF
+Table 2.3
+Operation Cost for South-East TGV Services
+in Millions of 1991 US Dollars
+
+
+
+Maintenance Costs
+
+Table 2.4 provides more details concerning the South-East TGV maintenance costs for the years 1984 through 1986. As shown in Table 2.4, M.O.E costs were 17.46 French Francs per trainset-mile in 1986 while the total M.O.W costs represented 127,000 French Francs per track-mile.
+
+
+
+
+
+
+MAINTENANCE COST
+
+In 1986 Constant French FrancsYear of Operation198419851986
+MAINTENANCE OF EQUIPMENT (M.O.E)
+(per Trainset-Mile)
+Cleaning
+Routine Depot Maintenance
+          Material
+          Direct Labor (hrs/1000 t.mi)
+          Indirect Labor & Overhead 
+Repair Shop
+          Material
+          Direct Labor (hrs/1000 t.mi)
+          Overhead
+
+TOTAL  FOR M.O.E per Trainset-Mile
+
+
+2.70
+
+3.77
+33.8
+97%
+
+4.08 a
+20.41a
+33%
+
+19.76
+
+
+2.70
+
+3.96
+30.7
+97%
+
+4.03a
+20.17a
+33%
+
+19.52
+
+
+2.77
+
+4.68
+30.6
+97%
+
+2.74a
+9.86a
+33%
+
+17.46
+MAINTENANCE OF WAY (M.O.W)
+(per Track-Mile of New TGV High Speed Line)
+Track
+          Subcontract and Material
+          Direct Labor (hours)
+          Indirect Labor
+Signaling
+          Material
+          Direct Labor (hours)
+          Indirect Labor
+Telecommunications
+          Material
+          Direct Labor (hours)
+          Indirect Labor
+Catenary
+          Material
+          Direct Labor (hours)
+          Indirect Labor
+
+TOTAL FOR M.O.W
+
+
+
+
+32,700
+215
+60%
+
+4,600
+123
+25%
+
+400
+19
+32%
+
+1,600
+81
+99%
+
+130,000
+
+
+
+39,200
+238
+53%
+
+6,900
+87
+80%
+
+400
+17
+70%
+
+700
+66
+144%
+
+135,700
+
+
+
+25,700
+215
+68%
+
+5,300
+97
+47%
+
+800
+16
+56%
+
+1,100
+71
+126%
+
+127,000	Source : Brand and Lucas (1989) in Journal of Transportation Engineering
+
+Table 2.4
+Cost of South-East TGV Maintenance of Equipment per Trainset-Mile and
+ Maintenance of Way Cost per Track Mile of New High Speed South-East TGV Line
+Energy Consumption
+
+Tables 2.5 and 2.6 give the average energy consumption for the South-East TGV and the Atlantic TGV running and the new infrastructure and upgraded lines, respectively, for a load factor of 65%. Energy consumption per passenger varies with the speed and increases rapidly when the speed is over 300 kph (Pavaux, 1991).
+
+
+
+Unit
+South-East TGV
+(270 kph cruising speed)
+Atlantic TGV
+(300 kph cruising speed)
+ 
+Kwh/km per trainset16.5
+20Kwh/passenger/100 km6.9GOE/PK16.214.9GOE/RPK (ortho)
+19.417.9	      Source : Pavaux - Institute of Air Transport (ITA) (1991)
+
+Table 2.5
+on a New High Speed Line
+
+
+
+
+Unit
+South-East TGV
+(270 kph cruising speed)
+Atlantic TGV
+(300 kph cruising speed)
+ 
+Kwh/km per trainset
+10.5
+12Kwh/passenger/100 km4.43.8GOE/PK10.38.95GOE/RPK (ortho)
+13.912.1	      Source : Pavaux - ITA (1991)
+Table 2.6
+Energy Consumption of the South-East TGV and the Atlantic TGV
+on a Upgraded Line
+As a comparison, Table 2.7 indicates the average energy consumption for different types of aircraft on the European market for a factor load of 65%. These consumption are averages calculated for several airlines operating on the European market. The variation in energy consumption can be as much as 15 to 20% since some airlines use denser seating on their aircraft than others do (Pavaux, 1991). The comparison of the GOE/RPK ratio calculated for orthodromic distances between high speed rail and air in Europe is illustrated in Figure 2.1, on the basis of a 65% load factor for both modes.
+
+
+
+From Paris to
+
+Type of Aircraft
+London
+(350 km)
+Amsterdam
+(400 km)
+Frankfurt
+(450 km)
+Milano
+(640 km)
+Venezia
+(835 km)
+Roma
+(1,100 km)
+A 300-B4
+69.34
+57.0449.61A 320-20054.4853.450.4639.2436.61B 727-20087.8486.14B 737-20090.3182.73
+  Source :  Pavaux - ITA (1991)
+Table 2.7
+Energy Consumption of Air Transport in Europe
+for a Load Factor of 65% (in GOE per RPK)
+
+
+2.3 The Structure of High Speed Rail Operating Costs
+
+
+A study conducted by INRETS and INTRAPLAN provided estimates of the average high speed rail operating cost for Europe. In this study, operating costs were divided into the following breakdown :
+
+	- sales and administration,
+	- shunting,
+	- train operations,
+	- maintenance of way,
+	- maintenance of equipment, and
+	- energy.
+
+Table 2.8 presents the unitary costs retained for high speed rail in Europe in the INRETS / INTRAPLAN study. Those costs have been used by the French Railroad to estimate operating costs for future planned TGV lines such as North TGV (Paris-Lille-London) and East TGV (Paris-Strasbourg). The proportion of labor cost is indicated for every component since it is expected to be a crucial factor of disparity between operating costs in Europe and in California.
+
+OPERATING COSTS
+
+Units
+Unitary Cost
+
+1. Sales and Administration
+% of revenue
+10.03. ShuntingECU/train3. Train Operations    Train Servicing62.0    DrivingECU/train-hour55.0ECU/train-kilometer0.012    Operations/Safety on Conventional LinesECU/train-kilometer0.14. Maintenance of Way     Electric Traction InstallationsECU/train-kilometer     Others MOW CostsECU/trainset-kilometer1.2ECU/trainset-kilometer1.906. Energy    Energy on High Speed LinesECU/trainset-kilometer1.35    Energy on Conventional Lines
+ECU/trainset-kilometer0.80
+Table 2.8
+High Speed Rail Unitary Operating Costs
+as Estimated in the INRETS / INTRAPLAN Study
+
+Sales and Administration
+
+Sale and administration costs include labor costs for ticket sales and for providing information at the railroad stations. They also include costs for automated ticketing machine  and travel agency commissions. In the INRETS/INTRAPLAN study, sale and administration costs have not been estimated on the basis of the required number of staff and automated ticketing machine for a given level of expected traffic volume but have been assumed to represent 10% of the passenger revenue.
+
+Sale and administration costs for a high speed rail system in California could be significantly different compared to Europe since the cost of labor as well as the disparity between costs and fares are likely to differ. Thus, it may be more accurate to estimate sale and administration costs with regards to those observed for airlines.
+
+
+Shunting costs depend on the distance between the depot and the station as well as the average period of time trainsets stay at the depot. Nonetheless, to simplify, shunting costs could be approximate on a per train basis. The study conducted by INRETS and INTRAPLAN has shown that the cost of labor represents 80% of the total shunting cost.
+
+Train Operations
+
+Train operation can be divided into four activities :
+	- train servicing,
+	- driving,
+	-operations and safety on high speed lines, and
+	-operations and safety on conventional lines.
+
+Train operation costs consist exclusively in labor costs. Train servicing and driving for the South-East TGV and the Atlantic TGV is two train companions per trainset and one driver per train (which may include one or two trainsets). Operations and safety on either high speed or conventional lines can be estimated on a per train basis.
+
+Maintenance of Way and Equipment
+
+The cost of the maintenance of electric traction installations and catenary depends on the number of trains running on the infrastructure whereas the cost of maintaining the tracks depends on the number of trainsets. Theoretically, the cost of maintenance of equipment is dependent upon the distance run by every trainset as well as the duration of use. In the INRETS / INTRAPLAN study, the impact of the duration of use has been ignored so that maintenance of equipment cost can be estimated on a trainset per kilometer basis.
+
+According to the INRETS / INTRAPLAN study, the proportions of the cost of labor in the maintenance costs are 55% for maintenance of electric traction installations, 45% for maintenance of tracks and 50% for maintenance of equipment.
+
+Energy
+
+Costs can be estimated from the average consumption of energy required per kilometer which characterized the trainsets. The cost of energy is assumed to take into account the cost of transport and the electrical losses between the power generating station and the substations. Operating costs related to energy do not include any labor cost.
+
+
+2.4 Total Cost of High Speed Rail
+
+
+Because of the high fixed costs resulting from initial infrastructure provision, economies of density are very substantial in high speed rail total costs. Thus, while not the only criterion, the total volume running on the new infrastructure is a crucial factor for cost analysis.
+
+Table 2.9 presents the South-East TGV traffic records for the years 1981 though 1992 for the three following categories :
+
+Trips from or to Paris, i.e., traffic to or from Paris, such as Paris-Lyon, Paris-Marseille and Paris-Dijon,
+Province-Province Trips, i.e., traffic between two cities (excluding Paris) served by South-East TGV services such as Le Creusot-Lyon, Valence-Montpellier and Avignon-Nîmes, 
+and Junction to Lyon, i.e., traffic on direct TGV services from Lyon to Lille and Rouen and vice versa.
+4
+
+
+SOUTH-EAST TGV TRAFFIC
+
+Number of Passengers, both directions (Thousands)1981198219831984198519861988198919901992Trips from or to Paris
+1,349
+6,389
+9,587
+14,215
+15,573
+15,976
+17,206
+17,997
+18,814
+19,120
+18,789
+19,096
+Province-Province Trips
+20
+116
+251
+474
+688
+766
+822
+867
+968
+1,040
+1,019
+1,099
+Junction to Lyon
+----
+----
+----
+37
+189
+299
+490
+513
+523
+531
+535
+543
+TOTAL TRAFFIC
+
+1,369
+6,505
+9,837
+14,726
+16,449
+17,041
+18,519
+19,377
+20,305
+20,691
+20,343
+20,739Source : SNCF
+
+Table 2.6
+South-East TGV Traffic from 1981 through 1992
+

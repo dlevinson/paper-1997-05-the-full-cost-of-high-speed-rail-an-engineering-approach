@@ -1,0 +1,20 @@
+Table 7.1 Intermodal Comparison of Long Run Average Costs,,,
+,,,
+Cost Category,Air System,High Speed Rail,Highways
+,,,
+Infrastructure: Construction and Maintenance,0.01822408674042142,0.129,0.012
+Carrier: Capital Cost,0.0606,0.01,0.0
+Carrier: Operating Cost,0.034,0.05,0.0
+External: Accidents,0.00042,0.0,0.02
+External: Congestion,0.0017,0.0,0.0046
+External: Noise,0.0043,0.002,0.0045
+External: Pollution,0.0009,0.0,0.0031
+User: Fixed + Variable,0.0,0.0,0.086
+User: Time,0.0114,0.044,0.1
+,,,
+TOTAL,0.13154408674042142,0.235,0.2302
+,,,
+"note: $/pkt, highways assume 1.5 passengers per car; all transfers are subtracted out",,,
+,,,
+,,,
+,0.11282408674042142,0.189,0.09799999999999999

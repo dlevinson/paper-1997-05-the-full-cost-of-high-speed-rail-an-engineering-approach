@@ -1,0 +1,439 @@
+Chapter 6:   Full Cost of High Speed Rail
+6.0 INTRODUCTION
+
+High speed rail systems are operational in Japan, France, and Germany, serving millions of passengers per year.  However, these systems are not free.  They have costs associated with building and maintaining the infrastructure and operating trains and controls systems.  These costs are dependent upon passenger demand.  Furthermore, high speed rails systems have a noticeable noise externality, which must be considered.  Last, travelers commit the precious commodity of time when traveling.
+The method used to estimate the full cost (FC) of high speed travel will combine elements from a number of sources.  Broadly, these include User Time Costs (UC), Infrastructure Costs (IC), Carrier Vehicle Costs (CVC), Carrier Operating Costs (COC), Environmental Costs (SEC), Congestion Costs (STC), Noise Costs (SNC), and Accident and Safety Costs  (SAC).  Because of the safety rates of the existing high speed rail systems, we will assume no risk of accident.  This does not mean there is no safety cost, rather that it is incorporated in higher capital costs to design the system to be safer.  We assume the system has sufficient capacity that congestion does not occur.  Also, because these systems are electrically powered, we assume that there are no environmental externalities caused by the rail system, and that the cost of pollution is internalized in the electric generation sector of the economy.  Thus we get the following equation:
+Each of these costs is a function of various parameters, which may include usage of the system.  Thus the full cost in many ways depends upon the demand.  This chapter provides both the function and a range of point estimates based upon assumptions of demand and other factors.
+This chapter will evaluate in turn the the infrastructure costs, the carrier operating and capital costs of the system, and the social costs of high speed rail travel and the cost of time to users.  The final section will combine the costs to develop a cost table for high speed rail.
+6.1.	Infrastructure Cost
+
+The 426-mile Los Angeles-San Francisco high speed line would link Union Station in downtown Los Angeles to a new Transbay Terminal in downtown San Francisco through Palmdale, the Tehachapi mountains, the Central Valley, serving Bakersfield and Fresno, the Pacheco Pass and the Santa Clara Valley, serving San Jose and the Peninsula (see the Central Valley Route Map on Appendix 6-A). The cost of building the new infrastructure has been estimated to $ 9.6 billion as shown in Table 6.1. This cost includes $ 230 million for a 26-mile loop to directly serve downtown Fresno from the high speed mainline. While the cost per mile through the Central Valley is less that $ 10 million, construction costs through the urban segments and mountain passes are significantly higher, averaging $ 30 to $ 46 million per mile (Leavitt et al., 1994). The average cost for the Los Angeles-San Francisco new high speed line is $ 22.4 million per mile.
+Table 6.1 Los Angeles-San Francisco High Speed Line Infrastructure Cost
+
+INFRASTRUCTURE
+ COST
+Distance
+(miles/km)
+Cost
+(US $)
+Cost Per Mile/km
+(US $)Los Angeles Basin24/
+ 38$   742,000,000$ 30,300,000/
+$18,900,000Techachapi Mnt. via Palmdale86/
+137$2,760,000,000$ 32,100,000/
+$20,060,000Central Valley205/
+328$2,010,000,000$  9,800,000/ $  6,120,000Pacheco Pass-Gilroy34/
+ 54$1,590,000,000$ 46,800,000/
+$29,250,000Gilroy-San Jose29/
+ 46$   531,000,000$ 18,300,000/
+$11,437,000San Jose-SanFrancisco49/
+ 78$1,964,000,000$ 40,100,000/
+$25,062,000Total426/
+682$9,597,000,000$ 22,400,000/
+$14,000,000Source : IURD 1994 .
+
+
+As shown on the Central Valley Route Map, the cost of building the Los Angeles-San Francisco high speed line includes eleven stations in downtown Los Angeles,Burbank, Santa Clarita, Palmdale, Bakersfield, downtown Fresno, Gilroy, dowtown San Jose, Palo Alto, San Francisco International Airport and downtown San Francisco.
+As a comparison with high speed lines built or to be built in France, Table 6.2 shows the average infrastruture cost per mile for the South-East, Atlantic, Mediterranean and East TGVs.
+The infrastructure cost on a per mile basis for South-East TGV and Atlantic TGV is comparable to the estimated per mile cost of the high speed line in the Central Valley. Construction costs for Mediterranean TGV and East TGV are closer to the average cost per mile of the Los Angeles-San Francisco line including the urban segments and mountain passes. Aside from the general increase in construction cost in France, the per mile cost disparities between the different TGV systems and their similarities with the Californian estimates appear to be consistent. In fact, Mediterranean TGV and East TGV are both characterized by more urbanized or mountainous areas.
+Table 6.2: French TGV Infrastructure Costs in Millions of 1994 US Dollars
+
+TGV SYSTEM
+South-East
+Atlantic
+Mediterr.
+East
+Infrastructure
+ Cost$2,058,000,000$1,724,000,000$4,047,000,000$4,371,000,000Line Length 
+(Mile/km)628/1004454/726500/800675/1080Cost per km$5,250,000$6,125,000$13,000,000$10,375,000Cost per Mile$8,400,000$9,800,000$20,800,000$16,600,000Source : SNCF
+
+The capital cost for the infrastructure has been estimated assuming that  the 426 miles of line are completed at a total cost of $9,597 Million (US $’s, 1994). This assumes a per mile cost of approximately $22 Million (see Table 6.1). Assuming an opportunity cost of capital of 7.5%, the annual capital cost  is $719.8 Million.  Divided by 6 billion passenger - kilometers, the capital cost of infrastructure is estimated at $0.12/pkt.
+6.2. The Structure of High Speed Rail Carrier Costs
+A study conducted by INRETS and INTRAPLAN provided estimates of the average high speed rail operating cost for Europe. In this study, operating costs were divided into the following breakdown :
+6.2.1 Sales and Administration
+Sales and administration costs include labor costs for ticket sales and for providing information at the railroad stations. They also include costs for automated ticketing machine  and travel agency commissions. In the INRETS/INTRAPLAN study, sales and administration costs have not been estimated on the basis of the required number of staff and automated ticketing machine for a given level of expected traffic volume but have been assumed to represent 10% of the passenger revenue.
+6.2.2 Shunting
+Shunting costs depend on the distance between the depot and the station as well as the average period of time trainsets stay at the depot. Nonetheless, to simplify, shunting costs could be approximate on a per train basis. The study conducted by INRETS and INTRAPLAN has shown that the cost of labor represents 80% of the total shunting cost.
+6.2.3 Train Operations
+Train operation can be divided into four activities :
+train servicing,
+driving,
+operations and safety on high speed lines, and
+operations and safety on conventional lines.
+
+Train operation costs consist exclusively in labor costs. Train servicing and driving for the South-East TGV and the Atlantic TGV is two train companions per trainset and one driver per train (which may include one or two trainsets). Operations and safety on either high speed or conventional lines can be estimated on a per train basis.
+6.2.4 Maintenance of Way and Equipment
+The cost of the maintenance of electric traction installations and catenary depends on the number of trains running on the infrastructure whereas the cost of maintaining the tracks depends on the number of trainsets. Theoretically, the cost of maintenance of equipment is dependent upon the distance run by every trainset as well as the duration of use. In the INRETS / INTRAPLAN study, the impact of the duration of use has been ignored so that maintenance of equipment cost can be estimated on a trainset per kilometer basis.
+According to the INRETS / INTRAPLAN study, the proportions of the cost of labor in the maintenance costs are 55% for maintenance of electric traction installations, 45% for maintenance of tracks and 50% for maintenance of equipment.
+6.2.5 Energy
+Costs can be estimated from the average consumption of energy required per kilometer which characterized the trainsets. The cost of energy is assumed to take into account the cost of transport and the electrical losses between the power generating station and the substations. Operating costs related to energy do not include any labor cost.
+Tables 6.3 and 6.4 give the average energy consumption for the South-East TGV and the Atlantic TGV running and the new infrastructure and upgraded lines, respectively, for a load factor of 65%. Energy consumption per passenger varies with the speed and increases rapidly when the speed is over 300 kph (Pavaux, 1991).
+Table 6.4: Energy Consumption of the South-East and the Atlantic TGV
+
+Unit
+South-East
+upgraded line  
+South-East
+new line
+Atlantic
+upgraded line
+
+Atlantic
+new line
+Kwh/km per trainset10.516.51220Kwh/passenger/100 km4.46.93.86.3GOE/PK10.316.28.9514.9GOE/RPK (ortho) 13.919.412.117.9Source : Pavaux - ITA (1991), note: on a Upgraded Line
+
+
+
+
+As a comparison, Table 6.5 indicates the average energy consumption for different types of aircraft on the European market for a factor load of 65%. These consumption are averages calculated for several airlines operating on the European market. The variation in energy consumption can be as much as 15 to 20% since some airlines use denser seating on their aircraft than others do (Pavaux, 1991). The comparison of the GOE/RPK ratio calculated for orthodromic distances between high speed rail and air in Europe is illustrated in Figure 6.1, on the basis of a 65% load factor for both modes.
+Table 6.5 Energy Consumption of Air Transport in Europe
+
+From Paris to
+
+Type of Aircraft
+London
+(350 km)
+Schiphol
+(400 km)
+Frankfurt
+(450 km)
+Milano
+(640 km)
+Venezia
+(835 km)
+Roma
+(1100km)A 300-B469.3457.0449.61A 320-20054.4853.450.4642.139.2436.61B 727-20087.8486.1484.12B 737-20090.3187.3782.73  Source :  Pavaux - ITA (1991), note: for a Load Factor of 65% (in GOE per RPK)
+
+
+
+
+Table 6.6 presents the unitary costs estimated for high speed rail in Europe in the INRETS and INTRAPLAN study. Those costs have been used by the French Railroad to estimate operating costs for future planned TGV.
+Table 6.6: High Speed Rail Unitary Operating Costs
+
+OPERATING COSTS in 1994 US $
+
+Units
+Unitary Cost
+1. Sales and Administration% of revenue10.03. Shunting$/train87.83. Train Operations    Train Servicing$/trainset-hour92.2    Driving$/train-hour81.8    Operations/Safety on High Speed Lines$/train-kilometer0.018    Operations/Safety on Conventional Lines$/train-kilometer0.154. Maintenance of Way     Electric Traction Installations$/train-kilometer0.19     Others MOW Costs$/trainset-kilometer1.785. Maintenance of Equipment$/trainset-kilometer2.836. Energy    Energy on High Speed Lines$/trainset-kilometer2.01    Energy on Conventional Lines$/trainset-kilometer1.19
+note: in 1994 US $ as Estimated in the INRETS / INTRAPLAN Study
+6.3.	Measuring Operating Costs for High Speed Rail in California
+
+Unitary operating costs are expected to differ between California and Europe, especially when labour cost represents a significant percentage of the total unitary cost. Nonetheless, since there is no currently operating high speed rail system in California or elsewhere in the United States,  it would be difficult to estimate specific unitary costs for California. Thus, INRETS / INTRAPLAN estimates will be used to forecast the operating cost of high speed rail in California except for energy and sales and administration costs.
+Sales and administration costs are dependent on the required number of staff and automated ticketing machine for a given level of expected traffic volume. Assuming that they represent 10% of the passenger revenue in California would imply that the revenue per passenger would be comparable to those observed in Europe. Thus, it may be more accurate to estimate salse and administration costs on a per passenger basis rather than revenue. As a first approximation, sales and administration costs in California will be assumed to be $ 5 per passenger.
+The unit cost rate for electrical power pricing in this analysis will be assumed to be $0.10 per kilowatt-hour, implicitly assuming full cost pricing within the electrical generation sector. According to Table 6.3, the energy consumption of a Atlantic TGV trainset cruising at 300 kilometers per hour on the new high speed line is 20 kilowatt-hour per kilometer. The maximum speed on the California high speed line has been assumed to be 200 mph (320 kph). Moreover, the average number of train stops on the new line  is expected to be higher. Thus, the energy consumption on the new line for California will be assumed to be 25 kilowatt-hour per kilometer and per trainset. It is assumed that there is now conventional line segment between Los Angeles and San Francisco.
+6.3.1	The SIMEX Simulation Program
+
+In order to estimate the total operating cost of the Los Angeles-San Francisco high-speed rail system, the number of trains-kilometers and trainsets-kilometers as well as the number of trains-hours and trainsets-hours must be calculated. Those quantities cannot be expressed by a simple algebraic function of the level of travel demand since they depend upon numerous factors such as the fluctuations of the demand within the day and the week for every origin-destination (OD) considered in the studied network as well as the schedules, the capacity of the trainsets and the stopping pattern of the different services. SIMEX, designed by the French Railroad, is a simulation program which translates from the level of travel demand to the number of train(set)s-kilometers and train(set)s-hours.
+SIMEX enables one to measure and optimize operating cost for a given set of OD markets. The SIMEX simulation program provides a very detailed estimate of the operating cost and the number of trainsets required to supply services. It also provides the optimal train schedules and the expected mean load factor and revenue for each train. 
+In the SIMEX simulation program, the travel demand is previously estimated using the M.A.T.I.S.S.E. model designed by INRETS. The M.A.T.I.S.S.E. model also provides estimates of passengers’ time targets within the day as well as the variation of the total  demand within the week. SIMEX considers four time target distributions depending on the travel time of the OD market being studied, as shown in Appendix 6-B. These distributions are based on the actual fluctuations of the demand observed for four French domestic OD markets : Paris-Le Mans (50 minutes), Paris-Lyon (2 hours), Paris-Bordeaux (3 hours) and Paris-Marseille (4 hours and 40 minutes). Those distributions vary whether the program is run for a random weekday or a weekly peak day (such as Friday evening or Sunday evening). The time target distributions are expressed in terms of hourly percentage of the daily demand. Every OD market is characterized by a travel time and the corresponding time target distribution.
+Obviously, supply characteristics affect the travel demand. Thus, the optimal supply proposed by SIMEX must be consistent with the volume of travel demand on which the simulation is based. An algorithm, in which the M.A.T.I.S.S.E. demand model and the SIMEX simulation program are sequentially used, is run until the optimal supply proposed by SIMEX corresponds to the level of demand predicted by M.A.T.I.S.S.E.. 
+The simulation program developed for the Californian corridor is based on an approach similar to the SIMEX methodology. Since M.A.T.I.S.S.E. forecasts are not available for the Californian high speed rail project, the CalSpeed travel demand estimates, as listed in Table 6.7, will be used.
+Table 6.7 High Speed Rail Ridership Forecasts for California 
+
+OD Markets :
+Los Angeles
+Bakersfield
+FresnoBakersfield1,729Fresno1,499200San Jose3,14093310San Francisco7,877244430note: One-Way Trips per Day
+Since the San Jose-San Francisco segment is a short, urban speed restricted segment, high speed rail may not be the best adapted service to serve this OD market. Therefore, the San Jose-San Francisco travel demand will not be taken into account when optimizing the schedules. Nonetheless, available capacity provided by express services from Los Angeles to San Francisco and vice-versa may be allocated to the San Jose-San Francisco OD market.  
+High speed rail ridership forecasts listed in Table 6.7 have been estimated assuming that the high speed rail fare would roughly correspond to 75% of the average airfare for a end-to-end market alternative (Hall et. al., 1993) as shown in Table 6.8.
+Table 6.8: High Speed Rail One-Way Fares for California
+
+OD Markets :
+Los Angeles
+Bakersfield
+FresnoBakersfield$ 25Fresno$ 30$ 18San Jose$ 50$ 35$ 25San Francisco$ 56$ 40$ 30
+
+
+6.3.2	The Los Angeles-San Francisco High Speed Line
+
+We will assume that the new high speed line is served by Los Angeles-San Francisco non-stop services as well as express services calling at Bakersfield, Fresno and San Jose as illustrated in Figure 6.2. The travel time between Los Angeles and San Francisco is 2 hours and 49 minutes according to Table 6.9. Every station is characterized by a 10 minutes stopping time which is longer than the actual time the train stops at the station in order to take into account the delay due to deceleration and re-acceleration. Thus, the Los Angeles-San Francisco express train travel time is 3 hours and 19 minutes.
+ Table 6.9 Los Angeles San Francisco High Speed Line : Distances, Speeds and Travel Times
+
+
+Segment :
+Distance
+(Miles)
+
+Max. Speed
+(mph)
+Avg. Speed
+(mph)
+Travel
+Time
+Los Angeles-Bakersfield14420015356Bakersfield-Fresno10820020032Fresno-San Jose13520017546San Jose-San Francisco491008435
+
+
+
+
+ EMBED Unknown  
+
+Figure 6.2
+Express and Non-Stop Services
+from Los Angeles to San Francisco
+
+6.3.3	Supply Characteristics
+
+Assume that the capacity of the trainsets used for the Los Angeles-San Francisco high speed line is 350 seats. The number of services needed to carry the traffic expected to run on the new infrastructure is calculated based on the commercial capacity rather than the maximal capacity. The commercial capacity is less than the maximal capacity in order to take into account the normal fluctuations of the demand. It is assumed that the commercial capacity is 75% of the maximal capacity.
+Moreover, it is assumed that the factor load on a segment must be less than 90% so that the number of available seats will be high enough to take into account the normal fluctuations of the demand. The factor load on a given segment is often lower bounded in order avoid over-capacity and, therefore, a great number of seat-miles unoccupied for a given train. Nonetheless, at this stage of the simulation, this lower bound will not be taken into account. Finally, the mean daily factor load for both express and non-stop services must be greater than 65%. 
+6.3.3.1	Step 1 : Service Attractiveness
+
+Prior to allocating the demand to the different services offered, the average period of time during which each train is expected to attract passengers must be approximated.
+OD markets to and from San Jose, Fresno and Bakersfield will be referred to as secondary markets. Travel demand is first allocated to express services since they are the only trains to serve secondary markets and, thus, must carry all the demand for those markets. The expected secondary market traffic volume carried by express services on each segment of the new line is illustrated in Figure 2.2 below. 
+Los AngelesBakersfieldFresnoSan JoseSan Francisco
+6367 passengers
+5175 passengers
+4216 passengers
+674 pax
+Figure 6.3
+Secondary Markets Traffic Flows in every Segment
+
+The most heavily trafficked segment of the new line is the Los Angeles-Bakersfield segment with an expected traffic of 6367 secondary market passengers. The total traffic expected on the Los Angeles-Bakersfield segment (i.e., 6367 secondary market passengers and 7877 Los Angeles-San Francisco passengers) requires to run 54.26 frequencies, either express or non-stop. Secondary market traffic requires 24.25 express services. In order to minimize costs, the number of services retained for the simulation program is 54 non-stop or express trains. Additional services may be offered during off-peak period if the remaining travel demand is high enough.
+The attractiveness of a given express services depends upon the scheduling of the other services. An express train can be scheduled between two other express services (with a probability Po), between a non-stop train and an express service (with a probability P1) and between two non-stop services with a probability P2). Note Nexp and Nns the number of express and non-stop services from Los Angeles to San Francisco, respectively. Let N be the total number of services from Los Angeles to San Francisco. We have :
+ EMBED Unknown  ,  EMBED Unknown   and  EMBED Unknown  .
+As stated before, an express train may provide a faster service than a non-stop train, when taking into account the schedule delay. To illustrate, consider an express service (express 1) scheduled between a non-stop service and another express train (express 2) as shown in Figure 2.3. Let us define  EMBED Unknown   as the travel time difference between express and non-stop services. Note A as the average time between two services. Define d as the weighting  coefficient for frequency delay.  It is assumed that A is greater than  EMBED Unknown  .
+ EMBED Unknown  
+Figure 6.4
+Attractiveness of an Express Service
+
+A passenger traveling between Los Angeles and San Francisco will choose express 1 if it provides the lowest total travel time, taking into account the frequency delay. Therefore, a passenger whose time target is S will choose express 1 if :
+ EMBED Unknown  			(6.3.1)
+where :
+ EMBED Unknown  	=	express service travel time
+ EMBED Unknown  	=	non-stop service travel time
+d	=	frequency delay weigthting coefficient.
+and where x(S) is defined as shown in Figure 6.4.
+According to equation (6.3.1), a passenger will take express 1 if his time target, S, is such that x(S) is greater than  EMBED Unknown  . Moreover, a passenger will choose express 1 rather than express 2 if his time target is closer to the time of departure of express 1. Thus, the average period of time during which express 1 is expected to attract passengers can be expressed as :  EMBED Unknown  .
+In the case where a non-stop service is scheduled instead of express 2, this period of time becomes :  EMBED Unknown  .	
+Assuming that A is greater than  EMBED Unknown  , if express 1 is scheduled between two express services, the average period of time during which it is expected to attract passengers from Los Angeles to San Francisco is A. Thus, the average period of time during which an express service is expected to attract passengers can be expressed as follows :
+ EMBED Unknown  		(6.3.2)
+If A is greater than  EMBED Unknown   we define  EMBED Unknown  .
+It can be shown that if all of the n previous services and the n next services are not express,  EMBED Unknown   Assuming that the ne previous and next services are express, we define   EMBED Unknown   and  EMBED Unknown   as the probability that both the (n+1)th previous and next services are express trains and non-stop trains, respectively.  EMBED Unknown  is the probability that either the (n+1)th previous or next service is an express train.  EMBED Unknown  ,  EMBED Unknown   and  EMBED Unknown   can be expressed as follows :
+ EMBED Unknown  ,
+ EMBED Unknown         and 
+ EMBED Unknown   
+
+The average period of time during which an express service is expected to attract passengers can be expressed as follows :
+ EMBED Unknown  	(6.3.3)
+As stated before, the total number of services from Los Angeles and San Francisco retained for the simulation is 54. Assume there is transport demand between 5 A.M. and 12 A.M. It comes that the average period of time between two trains is A = 21 minutes. Let further assume that the frequency delay is less valued by passengers as on-board travel time, and assume that d = 0.75. Since non-stop services are 30 minutes faster than express services, n is equal to 1. 
+Table 6.10 indicates the average period of time during which an express service is expected to attract passengers for a given level of frequency of express services. The proportion of Los Angeles-San Francisco passengers expected to travel by express trains depends upon this period of time. As stated before, 24.25 services are already required to carry the travel demand on secondary markets. Additional express services must be provided in order to carry the Los Angeles-San Francisco passengers expected to choose express trains. 
+Table 6.10 Number of Express Services Required for a Total Number of 54 Los Angeles-San Francisco Services
+
+Nexp
+Nns
+P0
+P1
+P2
+E[P]
+LA-SFO 
+Demand
+Total Travel Demand
+Number of Express 
+Services Required
+
+24
+30
+0.03
+0.09
+0.06
+2
+304
+6671
+25.4225290.040.100.062359672625.6226280.040.110.062420678725.8627270.050.120.063489685626.1228260.060.130.063566693326.4129250.070.140.063651701826.7430240.080.150.064746711327.10
+
+
+Figure 6.5 shows the Los Angeles-San Francisco and the total travel demand for express services depending on the number of express services provided. The total number of  services between Los Angeles and San Francisco is 54. Figure 2.3 also shows the seat capacity provided by express services assuming that the commercial capacity is 75% of the actual trainset capacity.
+ EMBED Unknown  
+Figure 6.5
+Express Service Travel Demand
+
+The minimum required number of express service must be such that the total express service travel demand is less than the capacity. The minimum required number of express services to be provided to meet the travel demand for both secondary markets and the Los Angeles-San Francisco markets shown in Table 6.10. As shown in Table 6.10 and Figure 6.5, avoiding under-capacity requires than the number of express services must be greater than 26.
+Since non-stop trains provide faster services for passengers traveling between Los Angeles and San Francisco, one would tend to maximize the number of non-stop services. Thus, the number of services provided is :
+26 express services calling at Bakersfield, Fresno and San Jose, and 
+28 non-stop services.
+The expected length of the period of time during which an express service is expected to attract passengers traveling from Los Angeles to San Francisco, E[P], when 26 express services are provided is 2 minutes, as indicated in Table 2.3. The period of time during which a non-stop service is expected to attract passenger traveling between Los Angeles and San Francisco, noted E[Pns] is such that :
+ EMBED Unknown  						(6.3.4)
+where :
+Nexp	=	number of express services
+Nns	=	number of non-stop services
+H	=	total period during the day in which there is a transport demand
+
+According to equation (6.3.4) and assuming that there is a transport demand between 5 A.M. and 12 A.M., the period of time during which a non-stop service is expected to attract passenger is 39 minutes.
+Secondary OD markets are served by 28 trains. Thus, the period of time during which an express service is expected to attract secondary market passengers is 44 minutes.
+6.3.3.2	Step 2 : Non-Stop Service Scheduling Process
+
+During off peak hours, the total demand for an express train, serving all the secondary OD markets as well as the Los Angeles-San Francisco market, may be high enough to provide a viable service whereas the travel demand for a non-stop service only serving a single OD market may be to low. During peak periods, though, the disparity of the demand among the different segments of the new line, as shown in Figure 6.3, is likely to yield empty seats on the less heavily trafficked segments. To illustrate, suppose that the Los Angeles-Bakersfield travel demand for a train leaving at 6 A.M. is so high that many passengers willing to travel beyond Bakersfield cannot get a seat. The factor load is likely to be low on the Bakersfield-Fresno segment if the number of passengers expected to get on the train in Bakersfield is negligible compared to the number of those who get off at this station.
+Therefore, non-stop services should first be scheduled during peak hours so that the Los Angeles-San Francisco travel demand will be high enough to viably provide such a service. In addition, this is expected to smooth the demand allocated to express services and, thus, alleviate the problem of the disparity of the traffic volume expected on the different segments of the new line.
+The non-stop service scheduling methodology used in the simulation program is pictured in Figure 6.6. The first non-stop service is scheduled at the time when the travel demand between Los Angeles and San Francisco is the highest. As shown in Figure 6.6, a train leaving Los Angeles at 6.30 A.M. would be expected to attract the greatest number of passengers. Since the maximum load factor is 90%, only 315 passengers are allocated to this train. Scheduling the 6.30 A.M. train affects the potential demand for non-stop services leaving Los Angeles between 6 A.M. and 7 A.M. as shown in Figure 6.7. The  new demand profile leads us to schedule the next train at 3.15 P.M.. The remaining demand after scheduling the 6.30 A.M. and the 3.15 P.M. trains is pictured in Figure 6.8. It leads us to schedule the next trains at 4 P.M., 2.30 P.M. and 9.15 A.M. as shown in Figure 6.8. The same methodology is used to schedule the remaining Los Angeles-San 
+Expected Travel Demand for Non-Stop Services
+depending on the time of departure of the trains
+
+
+Figure 6.6
+
+Figure 6.7
+ 
+Figure 6.8
+Francisco non-stop services. If the factor load of a non-stop service is less than 20%, the program stops the non-stop scheduling process. The load factors of the 28 non-stop services are listed in Table 6.11. Table 6.11 also indicates the revenue provided by every non-stop train assuming that the one-way Los Angeles-San Francisco fare is $ 56.
+Since the travel demand is assumed to be symmetric, the non-stop service scheduling process from San Francisco to Los Angeles leads to similar schedules and revenues.
+Table 6.11:Non-Stop Service Factor Load and Revenue
+Time of 
+Departure6.3015.1516.0014.309.158.307.457.0016.456.15Factor Load176%166%154%146%146%132%121%113%112%110%Truncated 
+Factor Load90%90%90%90%90%90%90%90%90%90%Revenue$ 17,640 $17,640 $17,640 $17,640 $17,640 $17,640 $17,640 $17,640 $17,640 $17,640 
+Time of 
+Departure10.0014.0015.3014.4517.3016.159.0013.1518.1510.45Factor Load96%95%85%76%73%67%66%63%62%62%Truncated 
+Factor Load90%90%85%76%73%67%66%63%62%62%Revenue
+$ 17,640 $17,640$16,702$14,841$14,336$13,144$12,884$12,345$12,246$12,196
+Time of 
+Departure12.308.1519.0011.457.309.3019.456.45Factor Load59%53%51%47%42%40%40%31%Truncated 
+Factor Load59%53%51%47%42%40%40%31%Revenue
+$11,469$10,483$10,063$9,258$8,234$7,906$7,828$5,997
+
+
+The total revenue for non-stop services is $ 391,613 par day and per direction. The average factor load for non-stop services is 71.36% while the number of non-stop services to be provided had been estimated on the basis of a 75% average factor load, referred to as the commercial capacity. Thus, while the Los Angeles-San Francisco travel demand expected to be allocated to non-stop services had been estimated to be as high as 7457 passengers each way, the actual allocation is only 6993 passengers. The remaining travel demand between Los Angeles and San Francisco for express services is 884 passengers.
+6.3.3.3	Step 3 : Express Service Scheduling Process
+
+The express service scheduling process is somewhat more complex since it must be directly based on the maximization of the revenue rather than the potential number of passenger attracted by a given service. While non-stop service revenue is proportional to the number of passengers carried, the travel demand potentially attracted by a given express service corresponds to different OD markets and, thus, different fares. Moreover, the disparity of the demand in the different segments of the new line is likely to yield empty seats on the less heavily trafficked segments as stated before. Thus, the express service which leads to the highest revenue does not necessarily correspond to the one which attracts the greatest number of passengers.
+Every fifteen minutes, from 5 A.M. to 12 A.M., the potential demand for an express service is calculated. If the potential demand for a given express service on the most heavily trafficked segment exceeds 90% of the capacity, the demand on this segment is truncated so that the number of passengers potentially attracted by this service is exactly 90% of the capacity. The composition of the travel demand according to the different OD markets remains the same. To illustrate, suppose that the travel demand for an express service leaving Los Angeles at 8.30 A.M. is 370 passengers on the Los Angeles-Bakersfield segment while the capacity is 350 seats. Only 315 passengers can be allocated to this service. Assume that 35% of these 370 passengers belong to the Los Angeles-San Jose OD market, 35% of the 315 passengers actually allocated to the 8.30 A.M. express service will travel from Los Angeles to San Jose. This new demand allocation has an impact on the other segments served by the express train. If the demand on the most heavily trafficked remaining segment exceeds 90%, the same operation is repeated. The final travel demand allocation is completed as when the factor loads in the different segments of the line is less than 90%. 
+The Los Angeles-San Francisco travel demand is allocated to the different express services assuming that the average period of time during which an express train is expected to attract Los Angeles-San Francisco passengers is 2 minutes as discussed in section 6.2.3. Thus, the conditional probability that an express train attract Los Angeles-San Francisco passengers knowing the non-stop schedules is not taken into account at this stage of the simulation.
+Then, knowing the composition of the demand according to the different OD markets, it is possible to calculate the expected revenue for the studied service.
+Although the travel demand is assumed to be symmetric, the express service scheduling process is likely to yield different schedules and revenues. To illustrate a train leaving Los Angeles at 8.30 A.M. will attract passengers from Los Angeles to San Jose and San Francisco whose time target is closed to 8.30 A.M. while a 8.30 A.M. express service from San Francisco to Los Angeles will potentially attract San Francisco-Los Angeles passengers whose time target is closed to 8.30 A.M. as well as San Jose-Los Angeles passengers whose time target is closed to 8.57 A.M..
+Tables 6.12 and 6.13 show the express service factor loads in the different segments of the new line for the northbound and southbound directions, respectively.
+Table 6.12: Northbound Express Service Factor Loads
+Time of Departure :15.4515.006.1516.3014.1517.457.007.458.3018.309.3017.0019.15Los Angeles-
+Bakersfield90%90%90%90%90%90%90%90%90%90%90%78%90%Bakersfield-
+Fresno85%84%80%83%79%73%74%73%74%69%74%67%64%Fresno-
+San Jose81%81%79%75%72%61%65%60%60%53%62%57%42%San Jose-
+San Francisco18%19%15%17%16%23%13%12%12%21%6%23%17%
+Time of Departure :10.1513.3020.0012.4512.0011.1520.458.4521.156.0011.006.4515.00Los Angeles-
+Bakersfield70%72%90%65%59%54%72%55%39%25%26%28%24%Bakersfield-
+Fresno67%63%60%56%51%49%47%43%27%24%25%21%21%Fresno-
+59%56%34%47%41%42%22%34%13%26%23%17%18%San Jose-
+San Francisco19%20%15%16%14%19%10%2%7%15%12%0%3%Table 6.13: Southbound Express Service Factor Loads (%)
+Time of 
+Departure :8.307.4514.1515.0013.306.1515.457.0016.3018.3017.4517.005.30Los Angeles-
+Bakersfield90%90%90%90%90%90%90%90%90%90%90%90%90%Bakersfield-
+Fresno90%84%84%82%82%79%78%76%70%67%66%66%70%Fresno-
+San Jose85%76%76%72%72%67%66%66%55%50%49%50%54%San Jose- San Francisco17%16%16%18%18%12%17%14%16%19%18%21%0%
+Time of 
+9.1512.4510.1519.1512.0011.1520.0015.0015.456.0020.4511.009.45Los Angeles-
+Bakersfield72%71%68%69%65%62%40%39%39%28%18%26%24%Bakersfield-
+Fresno69%59%59%55%52%52%41%32%29%24%20%23%22%Fresno-
+San Jose64%49%49%45%44%42%38%26%22%21%30%19%19%San Jose-
+San Francisco11%16%19%18%14%17%18%4%3%12%16%12%5%
+
+
+Express service revenue is shown in Figure 6.9. The contribution of every OD market to the service revenue is shown in Appendix 6-C.
+Figure 6.9: Express Service Revenue
+ EMBED Unknown  
+
+The total revenue for express services for both directions is US $ 584,136.
+6.3.4	Travel Demand Allocation
+
+Prior to running the simulation, the Los Angeles-San Francisco traffic expected to be carried by non-stop services was 94.6% of the total demand according to non-stop service attractiveness compared to express services. This estimate was based on the assumption that the average factor load was 75%. As previously stated, the average factor load is only 71.36%. Therefore, only 91.5% of the 15,754 Los Angeles-San Francisco or reciprocal trip passengers are actually allocated to non-stop services. The remaining demand for express services is 884 passengers in each direction versus 420 previously predicted as shown in Table 6.10. 
+The non-carried demand remaining is 232 passengers northbound and 242 passengers southbound. Table 6.14 summarizes the Los Angeles-San Francisco travel demand allocation for both directions. 
+The travel demand allocation for secondary markets is shown in Tables 6.15 for both directions.
+Table 6.14: San Francisco-Los Angeles Travel Demand Allocation
+Period of the Day5-6 A.M.6-77-88-99-1010-1111-1212-1 P.M.1-22-3Total Travel Demand018901260141814187884746307881576Non-Stop Services017741202137214066863205046841496Express Services010849395881541268652Remaining Demand0897714001828
+Period of the Day3-44-55-66-77-88-99-1010-1111-12Total Travel Demand1734141878863047231615800Non-Stop Services1582132061857042230000Express Services1453316557471192500Remaining Demand76553316713300note: both direction
+
+Table 6.15: Secondary Market Demand Allocation
+
+Travel Demand :
+
+OD Markets :
+Total
+ Carried
+Carried/Total
+Bakersfield-Los Angeles3458297786%Fresno-Los Angeles2998267989%San Jose-Los Angeles6280574191%Fresno-Bakersfield40036792%San Jose-Bakersfield18617896%San Francisco-Bakersfield48846996%San Jose-Fresno62056992%San Francisco-Fresno86079092%note: both direction
+
+6.3.5	Carrier Operating and Vehicle Cost Estimates
+
+The simulation provided estimates of the expected number of passengers carried as well as the number of train or trainset-kilometers and train or trainset-hours. Tabel 6.16 shows the annual train production quantities estimated. As shown in Appendix 6-D, the 3:30 PM Los Angeles-San Francisco express train includes two trainsets. Thus, there are 108 trainsets running every day in both directions and only 107 trains. 
+Table 6.16: Annual Train Production Quantities Estimated by the Simulation Program
+
+ANNUAL TRAIN PRODUCTION QUANTITIES
+passenger-kilometers (in billions)6.00passengers10,430,240seat-kilometers (in billions)9.68trainset-kilometers      27,654,076 train-kilometers      27,398,020 trainset-hours            193,922 train-hours            191,974 trains39055
+In order to estimate the interest and depreciation of the rolling stock, the number of trainsets required to provide the 108 services serving the Los Angeles-San Francisco corridor must be calculated. Assuming that a train must stay at least one hour at the destination station before being available to head out once again for a new service, the required number of trainsets is 40, as shown in Appendix 6-D. This minimum number is usually increased by 5% in order to take into account the non-disposability a proportion of the total fleet due to defection or maintenance. Thus the total number of trainsets in the fleet would be 42. 
+In the INRETS / INTRAPLAN study, a 350 seat capacity high speed trainset has been estimated to cost $17,849,286 (12 millions of ECU in 1991). Trainsets are supposed to be depreciated in fifteen year. The professional tax is assumed to be 5%. The capital cost for the rolling stock is then to be $1,279,200 per trainset and per year, including interest and depreciation of rolling stock as well as professional tax, calculated at a 7.5% discount rate.  Multiplying 42 trainsets by $1,279,200, and dividing by 6 billion passenger kilometers, gives a capital cost of rolling stock of $0.00895 per passenger kilometer.
+The total operating cost for the Los Angeles-San Francisco high speed rail system is $279 millions for 10,430,240 passengers, 6 billions of passenger-kilometers and 9.7 billions of seat-kilometers. Table 6.17 shows the different components of the operating cost as well as the rolling stock and infrastructure capital cost.
+Table 6.17: Operating and Capital Costs for Los Angeles-San Francisco Network.
+
+OPERATING COSTS
+
+Units
+Unitary Cost
+Quantity
+ Cost 1. Sales and Administrationpassengers$5.0010,430,240$52,151,2003. Shuntingtrain$87.8039,055$3,429,0293. Train Operations    Train Servicingtrainset-hour$92.20120,523    Drivingtrain-hour$81.80119,312$9,759,756    Operations/Safety on Linestrain-km$0.0527,398,020$1,315,1054. Energy    Energy on Linestrainset-km$2.5027,654,076$69,135,1905. Maintenance of Way     Electric Tractiontrain-km$0.1927,398,020$5,205,624     Others MOW Coststrainset-km$1.7827,654,076$49,224,2556. Maintenance of Equipment
+trainset-km$2.8327,654,076$78,261,035Total Operating Cost  (1->6)$279,593,415Total Passenger Revenue$499,087,130GROSS OPERATING 
+SURPLUS$219,493,715Capital Cost of Rolling Stock     Professional Taxtrainset$89,24640$3,569,857     Interest and Depreciation 
+     of Rolling Stocktrainset$1,189,95240GROSS MARGIN$168,325,761Infrastructure Costsfixed$9,597 Million7.5%$719.8 
+MillionNET CONTRIBUTION (SUBSIDY)$551.5
+Million
+
+
+Table 6.18 shows the unit operating costs.
+
+Table 6.18 Unit Operating Cost
+
+UNIT OPERATING COST
+
+Operating Costs (in millions)
+$                279Operating Cost per seat-kilometer$           0.0289Operating Cost per train-kilometer$             10.20Operating Cost per passenger-kilometer$           0.0466 MOW Cost per Track-Mile $           40,659 
+
+6.4	Social Cost and User Time Cost
+6.4.1 Noise Cost
+The social costs of HSR are restricted to noise. Accident costs are negligable and we assume no congestion delays. We also do not, at this point, consider pollution costs, however, this is an issue which is under debate.  With electrically powered trainunits, the pollution from power generation is moved backwards in the supply relationship. We argue that this pollution is properly associated with the electric power generation sector, in which additional pollution costs are, or should be, internalized.  Some have argued that the incremental pollution due to the increase in power requirements from the public utility which supplies power to the HSR should be included as part of the social costs of HSR, because it represents an avoidable cost. 
+The basis for estimating noise costs for HSR are provided in detail in Chapter 3. The complete model is complex, requiring the combination of a number of equations.  For analytical purposes, this was converted to a simpler average cost ($/pkt) model.  A regression was performed after fixing a number of assumptions discussed in Chapter 3, with the independent variable being the number of trains per hour (QT) valid for the range from 0-10 trains per hour, and the dependent variable being $/pkt .
+
+The social cost can be calculated for various train speeds as a function of the number of trains per hour. We illustrate by computing the marginal social cost for two representative speeds, 160 km/hr and 300 km/hr.  As with the calculation of the air noise costs there are key assumptions regarding housing density, housing values and cost per dB.  Analogous with the valuation of the air and highway noise externality, valuation is based on a hedonic methodology. The equations are provided below.
+MCtn300 = 0.0819 -0.0428(ln (QT)) + 0.000294 * QT2
+
+At 160 km/hr, our best estimate of the expected cost of noise is $0.017 per passenger kilometer ($0.028/pmt); at 300 km/hr it is $0.020/pkt ($0.033/pmt), assuming 5 trains per hour and 200 passengers per train. 
+6.4.2  User Time Cost
+User cost of time depends on the speed of service.  If we assume the system operates at 160 km/hr, and the value of time is $10/hour, then we have a $0.0625/pkt user time cost. At 300 km/hr, then the cost of time is $0.033/pkt.  This suggests, that for a 1000 km trip, the user is contributing $33.33 in his time toward the trip.
+6.5 Full Cost of High Speed Rail
+Table 6.19 gives summary results of the full cost of high speed rail per passenger kilometer for the California corridor.  These costs are very similar overall to the costs for highway travel, and much higher than for air.  Given all of the uncertainty inherent the data and analysis, this provides a first order estimate of the full cost of the trip on the California corridor from Los Angeles to San Francisco (of ~ 682 km) of $156 per trip.  Our estimates, shown in table 6.17, suggest that the proposed high speed rail system would require a subsidy of $551,000,000 per year to be competitive with privately provided air transportation.
+Cost CategoryAverage Cost $/PKTUser Time Cost$0.033Accident Cost$0.000Environmental Cost$0.000Noise CostCongestion Cost$0.000Operating Cost$0.047Capital Cost Infrastructure$0.120Capital Cost of Rolling Stock$0.009Total Cost$0.229
+
+
+APPENDIX 6
+
+
+
+
+
+
+
+
+
+Appendix 6-A : 	Map of the Central Valley Route
+
+Appendix 6-B :	Time Target Distributions used by SIMEX.
+
+
+Appendix 6-D :	Los Angeles-San Francisco Schedules and Fleet Movements.
+
+
+EXPRESS SERVICES REVENUE
+Northbound
+Time of Departure :15.4515.006.1516.3014.1517.457.007.458.3018.309.3017.0019.15Los Angeles-San Francisco$    1,496  $    1,882  $       782  $       955  $    1,531  $    1,856  $       536  $       741  $       973  $    1,544  $         -    $    2,830  $    1,234 Los Angeles-Bakersfield $    1,053  $    1,041  $    1,670  $    1,359  $    1,395  $    2,476  $    2,143  $    2,174  $    1,957  $    2,867  $    1,715  $    1,601  $    3,160 Los Angeles-Fresno $    1,461  $    1,226  $    1,012  $    1,979  $    1,400  $    2,487  $    1,779  $    1,984  $    1,782  $    2,684  $    1,785  $    1,819  $    2,997 Los Angeles-San Jose $    9,873  $    9,944  $  10,025  $    8,882  $    9,259  $    4,995  $    8,022  $    7,433  $    7,997  $    4,165  $    9,345  $    4,893  $    3,334 Bakersfield-Fresno $       152  $       113  $       239  $       212  $       104  $       276  $       228  $       202  $       155  $       289  $         53  $       171  $       268 Bakersfield-San Jose $       173  $       146  $       187  $       191  $       113  $       226  $       178  $       162  $       141  $       237  $         95  $       141  $       208 Bakersfield-San Francisco $       518  $       438  $       560  $       572  $       340  $       677  $       534  $       486  $       424  $       711  $       285  $       422  $       623 Fresno-San Jose $       450  $       325  $       492  $       545  $       245  $       636  $       442  $       317  $       144  $       566  $       156  $       411  $       359 Fresno-San Francisco $       751  $       680  $       712  $       836  $       563  $       945  $       650  $       550  $       407  $       837  $       381  $       620  $       645 Total Revenue
+ $  15,796  $  15,678  $  15,530  $  14,951  $  14,574  $  14,512  $  14,050  $  13,981  $  13,901  $  13,815  $  12,909  $  12,828 Time of Departure :10.1513.3020.0012.4512.0011.1520.458.456.0011.006.4515.00Los Angeles-San Francisco $    2,471  $    1,663  $    1,911  $    1,617  $    2,413  $    1,663  $    1,415  $    2,299  $    1,888  $         -    $       507 Los Angeles-Bakersfield $       658  $    1,264  $    3,286  $    1,244  $    1,149  $       872  $    2,416  $    1,201  $    1,097  $       240  $       239  $       636  $       280 Los Angeles-Fresno $    1,363  $    1,315  $    2,936  $    1,512  $    1,583  $    1,267  $    2,506  $    1,097  $    1,427  $       138  $       450  $       467  $       330 Los Angeles-San Jose $    6,514  $    5,737  $    2,799  $    4,668  $    4,010  $    3,445  $    2,026  $    5,476  $       996  $    1,529  $    1,708  $    2,905  $    2,677 Bakersfield-Fresno $         73  $       131  $       173  $       116  $       102  $       103  $         52  $         23  $         -    $         74  $         29  $           6  $         -   Bakersfield-San Jose $         92  $       119  $       176  $       103  $       100  $       120  $         59  $         37  $         -    $         46  $         35  $           5  $         -   Bakersfield-San Francisco $       277  $       356  $       527  $       308  $       298  $       361  $       177  $       110  $         -    $       138  $       104  $         15  $         -   Fresno-San Jose $       199  $       230  $       132  $       267  $       249  $       224  $           1  $         43  $         -    $       177  $         75  $         13  $         -   Fresno-San Francisco $       433  $       467  $       275  $       448  $       406  $       411  $           1  $       126  $         -    $       259  $       155  $         18  $         -   Total Revenue $  12,091  $  12,088  $  11,967  $  10,578  $    9,514  $    9,214  $    8,901  $    8,112  $    4,936  $    4,902  $    4,683  $    4,064  $    3,793 
+Table C.1
+Express Service Revenue by OD Markets : Northbound
+
+
+EXPRESS SERVICES REVENUE
+Southbound
+Time of Departure :8.307.4514.1515.0013.306.1515.457.0016.3018.3017.4517.005.45San Francisco-Los Angeles$    1,222  $       865  $    1,422  $    1,661  $    2,345  $       685  $    1,298  $       591  $       913  $    1,649  $    1,678  $    2,830  $         ---   Bakersfield-Los Angeles $       615  $    1,155  $    1,446  $    1,199  $    1,880  $    1,885  $    2,034  $    2,596  $    2,756  $    2,834  $    2,635  $    2,040 Fresno-Los Angeles $    1,534  $    1,872  $    1,463  $    1,576  $    1,516  $    1,800  $    1,772  $    1,992  $    2,298  $    2,940  $    2,732  $    2,278  $    1,714 San Jose-Los Angeles $  10,866  $    9,362  $    9,733  $    8,749  $    8,732  $    8,379  $    7,868  $    7,834  $    5,912  $    3,866  $    4,030  $    4,137  $    8,813 Fresno-Bakersfield $         85  $       172  $       106  $       136  $       234  $       189  $       218  $       238  $       275  $       293  $       187  $       158 San Jose-Bakersfield $       154  $       172  $       116  $       121  $       110  $       143  $       159  $       189  $       179  $       238  $       210  $       133  $         57 San Francisco-Bakersfield $       624  $       593  $       663  $       785  $       357  $       776  $       762  $       648  $       642  $       285  $       338  $       280  $         ---   San Jose-Fresno $       420  $       477  $       258  $       227  $       272  $       477  $       262  $       509  $       378  $       624  $       551  $       321  $       236 San Francisco-Fresno $       660  $       730  $       462  $       446  $       377  $       362  $       520  $       663  $       660  $       848  $       777  $       492  $         ---   Total Revenue
+ $  16,180  $  15,491  $  15,377  $  15,146  $  15,021  $  14,736  $  14,716  $  14,679  $  13,816  $  13,481  $  13,444  $  13,293  $  13,018 Time of Departure :9.1512.4510.1519.1512.0011.1520.0015.0015.456.0020.4511.009.45San Francisco-Los Angeles$         ---    $    1,911  $    2,481  $    1,390  $    1,617  $    2,413  $    1,719  $       728  $       559  $    2,299  $    1,663  $    1,888  $       296 Bakersfield-Los Angeles $       872  $    1,453  $    1,233  $    1,769  $    1,522  $    1,218  $       231  $       634  $       812  $       349  $         -    $       432  $       374 Fresno-Los Angeles $    1,282  $    1,533  $    1,448  $    2,502  $    1,376  $    1,502  $    1,600  $       690  $       763  $       326  $         66  $       538  $       488 San Jose-Los Angeles $    8,668  $    5,211  $    4,751  $    3,107  $    4,565  $    3,740  $    2,256  $    3,834  $    3,390  $    1,625  $    1,522  $    1,110  $    2,321 Fresno-Bakersfield $        58  $       125  $        87  $       204  $       111  $       103  $       104 $         ---   $         ---   $         ---    $           4  $         34  $         27 San Jose-Bakersfield $       124  $         95  $         94  $       227  $       117  $       105  $       189 $         ---   $         ---   $         ---    $       155  $         31  $         35 San Francisco-Bakersfield $       701  $       290  $       405  $       233  $       249  $       214  $       180 $         ---   $         ---   $         ---    $       126  $       106  $       203 San Jose-Fresno $       237  $       221  $       128  $       609  $       226  $       189  $       499 $         ---   $         ---   $         ---    $         55  $         38 San Francisco-Fresno $       610  $       434  $       391  $       968  $       454  $       364  $       870 $         ---   $         ---   $         ---    $       719  $       129  $       188 Total Revenue $  12,552  $  11,273  $  11,017  $  11,008  $  10,237  $    9,846  $    7,649  $    5,886  $    5,524  $    4,558  $    4,323  $    3,970 
+Table C.2
+Express Service Revenue by OD Markets : Southbound
+Los Angeles-San Francisco 
+Non-Stop and Express Service Schedules
+
+
+NSNSExpNSNSExpExpNSNSExpExpNSLos Angeles6.156.306.306.457.007.007.157.307.457.458.008.15Bakersfield||7.28||7.588.13||8.438.58|Fresno||8.10||8.408.55||9.259.40|San Jose||9.06||9.369.51||10.2110.36|San Francisco8.569.119.419.269.4110.1110.2610.1110.5611.1110.56NSExpNSExpNSNSExpNSExpNSExpExpLos Angeles8.308.309.009.009.159.309.3010.0010.4510.4511.15Bakersfield|9.28|9.58||10.28|11.13|11.4312.13Fresno|10.10|10.40||11.10|11.55|12.2512.55San Jose|11.06|11.36||12.06|12.51|13.2113.51San Francisco11.1111.4111.4112.1111.5612.1112.4112.4113.2613.5614.26NSExpNSExpNSExpNSExpNSNSExpNSLos Angeles11.4512.0012.3012.3013.1513.1514.0014.0014.4514.4515.15Bakersfield|12.58|13.28|14.13|14.58||15.43|Fresno|13.40|14.10|14.55|15.40||16.25|San Jose|14.36|15.06|15.51|16.36||17.21|San Francisco14.2615.1115.1115.4115.5616.2616.4117.1117.2617.5617.56NSExpNSNSExpNSExpNSExpExpNSExpLos Angeles15.3015.3016.0016.1516.1516.4517.0017.3018.0018.1518.45Bakersfield|16.28||17.13|17.58|18.2818.58|19.43Fresno|17.10||17.55|18.40|19.1019.40|20.25San Jose|18.06||18.51|19.36|20.0620.36|21.21San Francisco18.1118.4118.4118.5619.2619.2620.1120.1121.1120.5621.56NSExpNSExpExpLos Angeles19.0019.3019.4520.1521.00Bakersfield|20.28|21.1321.58Fresno|21.10|21.5522.40San Jose|22.06|22.5123.36San Francisco21.4122.4122.2623.2624.11
+NS : Non-Stop Service.
+Exp : Express Service
+
+

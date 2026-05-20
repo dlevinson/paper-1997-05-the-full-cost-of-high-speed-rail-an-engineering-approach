@@ -1,0 +1,10 @@
+source_path,decision,category,reason
+source/Annals of Regional Science/ARS-HSR/Drafts/*,exclude,excluded,paper drafts and correspondence are not upload-package assets
+source/Annals of Regional Science/ARS-HSR/HSR.ARS_2,exclude,excluded,paper manuscript draft excluded; final PDF retained
+source/Annals of Regional Science/ARS-HSR/HSR.pdf,exclude,excluded,duplicate paper/reference PDF excluded; final paper copy retained
+source/Annals of Regional Science/ARS-HSR/doc-HSR.pdf,exclude,excluded,submitted/revised draft excluded; final paper copy retained
+source/Annals of Regional Science/ARS-HSR/proof_note.msw,exclude,excluded,proof correction note excluded
+source/Annals of Regional Science/ARS-HSR/High-Speed Rail Summary Report,exclude,excluded,external Commission summary report excluded; cite public/external source if needed
+source/Full Cost Project/Final++/Chapter One-Five/Seven docs not directly needed,exclude,excluded,broad full-report chapter dump excluded from this paper package; HSR chapter/source docs and comparison workbooks retained
+source/Full Cost Project/INSERTS/HSR.carve,exclude,excluded,article/manuscript insert excluded; final paper copy retained
+source/Full Cost Project/C6 HSR/Jean-Michel/HSR.XLS,exclude,excluded,duplicate of retained C6 HSR/HSR.XLS when content/hash matches; otherwise represented by retained HSR workbook exports

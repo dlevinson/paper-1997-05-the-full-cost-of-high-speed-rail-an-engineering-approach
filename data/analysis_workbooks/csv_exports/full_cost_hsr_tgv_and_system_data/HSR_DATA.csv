@@ -1,0 +1,23 @@
+,,,,,,,,,
+System,Distance,Travel Time,Average Speed,Ridership,Construction Cost,Construction Cost per,Year of Price,Operating Cost,Operating Cost per pax
+,(mile),(minutes),(mph),(million),(1992 billion$),Mile (1992 $million),,(1992 $million),(1992 $/pax)
+Actual,,,,,,,,,
+Shinkansen,,,,in 1989,,,,,
+Tokaido,346.0,164.0,126.59,117.0,4.16,12.023121387283236,1964.0,4433.01,37.88897435897436
+Sanyou,389.0,,,62.0,7.7,19.794344473007712,1975.0,3208.51,51.75016129032259
+Tohuko,335.0,,,51.0,14.37,42.8955223880597,1985.0,5688.51,111.53941176470589
+Joetsu,209.0,,,20.0,8.73,41.770334928229666,1985.0,2464.5,123.225
+TGV,,,,in 1984,,,,in 1984,in 1984
+Paris-Lyon,265.4,120.0,132.7,13.325,1.3694624999999998,5.15999434815373,,175.33125,13.158067542213885
+Estimates,,,,,,,,,
+Shinkansen,,,,,,,,,
+LA-San Diego,132.0,62.4,127.0,6.8,,,,,9.46
+TGV,,,,,,,,,
+LA-Las Vegas,230.0,86.3,160.0,3.0,,,,,14.78
+Chigago-Detroit,279.0,176.2,95.0,0.7,,,,,41.03
+Chigago-St.Louis,282.0,169.2,100.0,0.7,,,,,44.95
+Chigago-Milwaukee,85.0,45.1,113.0,0.2,,,,,30.46
+Tampa-Orlando-Miami,314.0,153.2,123.0,0.7,,,,,50.44
+LA-San Francisco,398.0,163.3,146.1,,8.39,21.08040201005025,,,
+VFT,,,,,,,,,
+Sidney-Melbourne,530.68,180.0,177.0,6.99,6.5,12.25,,,

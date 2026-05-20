@@ -1,0 +1,484 @@
+Table: Usage of Trainsets by Run:
+Trainset # :SF-LALA-SFSF-LALA-SFTrainset # :LA-SFSF-LALA-SFSF-LA5.3010.0014.0018.156.0010.4514.4519.0018.4912.4916.4921.04209.1913.3417.3421.499.4913.4917.4922.0410.1914.3418.3422.496.0010.4514.4519.006.1510.1515.0019.4529.1913.3417.3421.49219.0413.3418.1922.3410.1914.3418.3422.4910.0414.3419.1923.346.1510.1515.0019.456.1511.0015.3020.0039.0413.3418.1922.34229.3414.1918.1923.1910.0414.3419.1923.3410.3415.1919.1924.196.1511.0015.3020.006.3011.1515.4520.1549.3414.1918.1923.19239.1914.3419.0423.3410.3415.1919.1924.1910.1915.3420.0424.346.3011.1515.4520.456.4511.4516.0020.3059.1914.3419.0424.04249.3414.3418.4923.4910.1915.3420.0425.0410.3415.3419.4924.496.4511.4516.0021.156.4512.0016.3021.0069.3414.3418.4924.342510.0415.1919.4924.1910.3415.3419.4925.3411.0416.1920.4925.197.0012.0018.157.0012.3016.4520.4579.4915.1921.04269.4915.1919.3424.0410.4916.1922.0410.4916.1920.3425.047.0012.3018.307.0012.4517.45810.1915.1921.492710.1916.0421.0411.1916.1922.4911.1917.0422.047.3012.4519.157.3013.1518.30910.1916.0422.342810.1916.0421.4911.1917.0423.3411.1917.0422.497.4513.157.4513.3019.151010.3416.042910.3416.4922.3411.3417.0411.3417.4923.347.4513.307.4514.1511.0416.493011.0412.0412.048.1514.008.1514.301211.0416.493111.0417.1912.0417.4912.0418.198.3014.158.3015.151311.1917.343211.1918.0412.1918.3412.1919.048.3014.308.3016.151411.4917.193311.4919.0412.4918.1912.4920.049.0015.008.4517.001511.4918.193412.0420.1912.4919.1913.0421.199.1515.159.0016.301612.0418.043511.4919.4913.0419.0412.4920.499.1516.159.1516.451712.3419.043612.0419.3413.3420.0413.0420.349.3017.009.3017.301812.1920.193712.1920.1913.1921.1913.1921.1910.0017.309.3017.451912.4920.193812.4921.0413.4921.1913.4922.04
+
+				
+ASSESSMENT OF INVESTMENTSSouth-East TGVAtlantic TGVMediterranean TGVEast-TGV1975 MFF1983 MFF1991 MFF1992 MFFINFRASTRUCTURELand purchase, plot regrouping, compensation payments1415081,2101,489Preparatory work, earthworks, drainage/sanitation, roads, miscellaneous9931,2698,5008,383Civil engineering structures3772,6224,6704,403Road safety measures, fencing of right of way, miscellaneous7992830854TOTAL FOR  RAILROAD INFRASTRUCTURE1,5904,49115,21015,129SUPERSTRUCTURETrack, ballasting6251,0801,8552,938Safety/signaling and telecommunication installations2486531,2401,598Electric traction installation2495439901,471Terminal installations  and buildings214490605558TOTAL FOR RAILROAD SUPERSTRUCTURE1,3362,7664,6906,565TOTAL COST FOR HIGH SPEED LINE 2,9267,25719,90021,694Length of the High Speed Line (in kilometers)4172822.5451.16*Number of Trainsets10995TOTAL INVESTMENTS5,471
+		* Millions of 1990 ECU		
+
+
+	TABLE: South-East TGV Business Accounts (in millions of 1992 dollars)										
+Year of Operation19811982198319841985198619871988198919901991Passenger Revenue40219368559676678774828881912942TGV Mail Caring Revenue000667778Total Revenue40219368560685781835889920951Operating Costs2296165195241256271284299308322Gross Operating Surplus18123203365441429510551590612629Interest and Depreciation of Rolling Stock (Annuities)2233547484909397100102109Gross Margin-490149291339454490510520Charges for the New Line2215821517816011811410294-26-45-976179179340381408426
+SystemDistanceTravel TimeAverage SpeedRidershipConstruction CostYear of PriceOperating CostOperating Cost per pax(mile)(mph)(million)(1992 billion$)Mile (1992 $million)(1992 $million)ActualShinkansenin 1989Tokaido346164126.591174.1612.0219644433.0137.89Sanyou389627.719.7919753208.5151.75Tohuko3355114.3742.9019855688.51111.54Joetsu209208.7341.7719852464.50123.23TGVin 1984in 1984in 1984Paris-Lyon265.4120132.713.3251.375.16175.3313.16EstimatesShinkansenLA-San Diego13262.41276.89.46TGVLA-Las Vegas23086.31603.014.78Chigago-Detroit279176.2950.741.03Chigago-St.Louis282169.21000.744.95Chigago-Milwaukee8545.11130.230.46Tampa-Orlando-Miami314153.21230.750.44LA-San Francisco398163.3146.18.3921.08VFTSidney-Melbourne530.681801776.996.512.25
+
+
+
+
+2.4 Total Cost of High Speed Rail
+
+
+Because of the high fixed costs resulting from initial infrastructure provision, economies of density are very substantial in high speed rail total costs. Thus, while not the only criterion, the total volume running on the new infrastructure is a crucial factor for cost analysis.
+
+Table X presents the South-East TGV traffic records for the years 1981 though 1992 for the three following categories :
+
+Trips from or to Paris, i.e., traffic to or from Paris, such as Paris-Lyon, Paris-Marseille and Paris-Dijon,
+Province-Province Trips, i.e., traffic between two cities (excluding Paris) served by South-East TGV services such as Le Creusot-Lyon, Valence-Montpellier and Avignon-NÓmes, 
+and Junction to Lyon, i.e., traffic on direct TGV services from Lyon to Lille and Rouen and vice versa.
+TABLE X: SOUTH-EAST TGV TRAFFIC Number of Passengers, both directions (Thousands)
+
+Year of Operation198119821983198419851986198719881989199019911992
+Trips from or to Paris
+1,349
+6,389
+9,587
+14,215
+15,573
+15,976
+17,206
+17,997
+18,814
+19,120
+18,789
+19,096
+Province-Province Trips
+20
+116
+251
+474
+688
+766
+822
+867
+968
+1,040
+1,019
+1,099
+Junction to Lyon
+----
+----
+----
+37
+189
+299
+490
+
+523
+531
+535
+543
+TOTAL TRAFFIC
+
+1,369
+6,505
+9,837
+14,72616,449
+17,041
+18,519
+
+20,305
+20,691
+20,34320,739Source : SNCF
+
+
+2.1 Infrastructure Costs
+South-East TGV
+
+The southern section of the French South-East TGV high speed line (170 miles) came into service in 1981. At this time the travel time from Paris to Lyon was 2 hours and 40 minutes. The northern section of the new line (71 miles) opened to traffic in 1983 and provided a reduction in travel time of 40 minutes. The estimated cost of the new line was 2,901 Millions of French Francs (1975 prices) while the actual cost was 2,926 millions of French Francs, indicating an overrun of only 1%. The overrun for the rolling stock was 3.8%. The assessment of investments for the infrastructure, the superstructure and the South-East TGV fleet are presented in Table 2.1.
+
+Atlantic TGV
+
+
+Mediterranean and East TGV
+
+Since construction cost estimates for South-East and Atlantic TGV were extremely close to the actual costs of construction, cost estimates for the next two TGV lines planned to be build before 2001 (Mediterranean TGV from Valence to Marseille and Montpellier and East TGV  
+
+ASSESSMENT OF INVESTMENTS
+
+South-East TGV
+Atlantic 
+TGV
+Mediterranean TGV1
+East
+TGV11975 MFF1983 MFF1991 MFF1992 MFFLand purchase, plot regrouping, compensation payments1415081,2101,489Preparatory work, earthworks, drainage/sanitation, roads, miscellaneous9931,2698,5008,383Civil engineering structures3772,6224,6704,403Road safety measures, fencing of right of way, miscellaneous7992830TOTAL FOR  RAILROAD INFRASTRUCTURE1,5904,49115,21015,129Track, ballasting6251,0801,8552,938Safety/signaling and telecommunication installations2486531,2401,598Electric traction installation2495439901,471Terminal installations  and buildings214490605558TOTAL FOR RAILROAD SUPERSTRUCTURE1,3362,7664,6906,565TOTAL COST FOR HIGH SPEED LINE 2,9267,25719,90021,694Length of the High Speed Line (in kilometers)417282TGV TRAINSETS2.5451.16*Number of Trainsets10995TOTAL INVESTMENTS
+5,471
+* Millions of 1990 ECU
+1 Estimates
+Table 2.1
+Infrastructure Costs for the TGV System
+from Paris to Strasbourg) may be viewed as an actualization of South-East and Atlantic TGV data listed in Table 2.1. 
+
+
+Charges for the new line and interest and depreciation of rolling stock for the South-East TGV are shown in Table 2.2 for the years 1981 through 1991. Table 2.2 also indicates the gross operating revenue, the gross margin and the net contribution of the South-East TGV for the corresponding years.
+
+TABLE X Soute-East TGV Business Account (in millions of 1991 US Dollars)
+
+Year of Operation19811982198319841985198619871988198919901991
+Passenger Revenue
+40
+219
+368
+559
+676
+678
+774
+828
+881
+912
+942TGV Mail Carriage Revenue00016677789Total Revenue40219560682685781835889920951
+Operating Costs
+2296
+165
+195
+241
+256
+271
+284
+299
+308
+322Gross Operating Surplus18123203365441429510551590629Interest and Depreciation of Rolling Stock (Annuities)2233547484909397100102109Gross Margin-490149291357339417454490510520Charges for the New Line2213515821517816011811410910294
+South-East TGV Net Contribution
+
+-26-45
+-9
+76
+179
+179
+299
+340
+381
+408
+426Source : SNCF
+Table 2.2
+Summary of Accounts for South-East TGV Activities
+
+
+SNCF asserts that the entire systemís costs were paid for 12 years after it became operational in 1981. The South-East TGV was entirely funded by the SNCF through loans raised on the finance markets. The internal rate of return was estimated to be 15% while the external rate of return was 30%.
+
+
+2.2 Operating Cost for Existing High Speed Rail Systems
+
+
+Tables 2.X indicates operating cost for the South-East TGV with the following breakdown : rolling stock maintenance, track maintenance , energy, sales and reservations, drivers, train crews, and employers tax for the years 1981 though 1992.
+
+TABLE 2.X South-East TGV Operating Cost (in millions of 1991 US Dollars)
+
+Year of Operation
+1981
+19821983
+1984
+1985
+
+1987
+1988
+19891990
+1991
+Rolling Stock Maintenance
+6
+26
+51
+48
+79
+75
+76
+81
+87
+98
+98
+Track Maintenance Costs
+4
+17
+22
+22
+15
+20
+22
+24
+26
+26
+27
+Energy
+2
+15
+27
+42
+50
+40
+48
+
+55
+59
+59
+Sales and Administration
+5
+23
+40
+50
+61
+82
+82
+82
+83
+83
+86
+Drivers
+1
+6
+10
+12
+14
+17
+18
+19
+20
+21
+23
+Train Crews
+1
+6
+10
+13
+15
+16
+19
+20
+22
+23
+25
+Employers Tax
+3
+4
+6
+8
+6
+6
+6
+6
+7
+7
+7
+TOTAL OPERATING COSTS
+
+22
+96
+165
+195
+241
+256
+271
+284
+299
+308
+322    Source : SNCF
+
+Maintenance Costs
+
+Table 2.4 provides more details concerning the South-East TGV maintenance costs for the years 1984 through 1986. As shown in Table 2.4, M.O.E costs were 17.46 French Francs per trainset-mile in 1986 while the total M.O.W costs represented 127,000 French Francs per track-mile.
+
+
+
+
+
+
+MAINTENANCE COST
+
+In 1986 Constant French FrancsYear of Operation198419851986
+MAINTENANCE OF EQUIPMENT (M.O.E)
+(per Trainset-Mile)
+Cleaning
+Routine Depot Maintenance
+          Material
+          Direct Labor (hrs/1000 t.mi)
+          Indirect Labor & Overhead 
+Repair Shop
+          Material
+          Direct Labor (hrs/1000 t.mi)
+          Overhead
+
+TOTAL  FOR M.O.E per Trainset-Mile
+
+
+2.70
+
+3.77
+33.8
+97%
+
+4.08 a
+20.41a
+33%
+
+19.76
+
+
+2.70
+
+3.96
+30.7
+97%
+
+4.03a
+20.17a
+33%
+
+19.52
+
+
+2.77
+
+4.68
+30.6
+97%
+
+2.74a
+9.86a
+33%
+
+17.46
+MAINTENANCE OF WAY (M.O.W)
+(per Track-Mile of New TGV High Speed Line)
+Track
+          Subcontract and Material
+          Direct Labor (hours)
+          Indirect Labor
+Signaling
+          Material
+          Direct Labor (hours)
+          Indirect Labor
+          Material
+          Direct Labor (hours)
+          Indirect Labor
+Catenary
+          Material
+          Direct Labor (hours)
+          Indirect Labor
+
+TOTAL FOR M.O.W
+
+
+
+
+32,700
+215
+60%
+
+4,600
+123
+25%
+
+400
+19
+32%
+
+1,600
+81
+99%
+
+130,000
+
+
+
+39,200
+238
+53%
+
+6,900
+87
+80%
+
+400
+17
+70%
+
+700
+66
+144%
+
+135,700
+
+
+
+25,700
+215
+68%
+
+5,300
+97
+47%
+
+800
+16
+56%
+
+1,100
+71
+126%
+
+127,000	Source : Brand and Lucas (1989) in Journal of Transportation Engineering
+
+Table 2.4
+Cost of South-East TGV Maintenance of Equipment per Trainset-Mile and
+ Maintenance of Way Cost per Track Mile of New High Speed South-East TGV Line
+
+
+How to run the HSR Simulation Program
+
+
+
+
+Select Worksheet ëDataí in SIMEX1.XLS
+
+	Enter the Trainset Capacity (Cell R11C5).
+	Enter the Period when there is a demand for transport (Cell R19C7).
+	Enter the Fares for the different OD Markets (Cells R24C3:R28C3 and R24C6:R27C6).
+	Enter the Supply Characteristic ìTauxMaxî (Cell R23C9) as defined in the ìSupply 	Characteristicsî Section.
+	Enter the time between two Services (Cell R14C7) which is the amount of time a trainset must 	stay at the destination station before being available to head out once again for a new service.
+
+Select Worksheet ëData (exp)í in SIMEX1.XLS
+
+	Enter the Northbound Travel Demand for the different OD Markets (Cells R7C6:R15C6).
+	Enter Travel Time for Los Angeles-Bakersfield (Cell R29C4), Bakersfield-Fresno (Cell R30C4),
+	Fresno-San Jose (Cell R31C4) and San Jose-San Francisco (Cell R32C4) Segments.
+	Enter the Actual Stopping Time for Bakersfield (Cell R30C6), Fresno (Cell R31C6) and San Jose 	(Cell R32C6) Stations.
+	Enter the Total Stopping Time for Bakersfield (Cell R30C8), Fresno (Cell R31C8) and San Jose 	(Cell R32C8) Stations.
+
+Select Worksheet ëData (exp)í in SIMEX1.XLS
+
+	Enter the Commercial Capacity (Cell R4C14) as defined in the ìSupply Characteristicsî Section.
+	Enter the Total Number of Service provided between Los Angeles and San Francisco per 	direction (Cell R2C12). It has been calculated in the report as the ratio between the total travel 	demand on the most heavily trafficked segment and the commercial capacity.
+	Enter Delta (Cell R6C13) as defined in the ìStep 1 : Service Attractivenessî Section
+	Choose the number of Express Services and Non-Stop Services retained for the Simulation. 
+	The method used in the report is to maximize the number of Non-Stop Services subject to the 	constraint that Ecart (Column 11) is positive.
+	Copy the retained number of Express Services and Paste.Special (Value) in Worksheet ëData 	(exp)í in SIMEX1.XLS in Cell R7C9. Copy the corresponding E[Exp] and Paste.Special (Value) 	in Cell R7C10.
+	Copy the retained number of Non-Stop Services and Paste.Special (Value) in Worksheet ëDataí 	in SIMEX1.XLS in Cell R7C9. Copy the corresponding E[NS] and Paste.Special (Value) in Cell 	R7C10.
+	
+
+If the Travel Demand is not symmetric, activate SIMEX2.XLS and repeat the same operation.
+Once new formula have been entered in SIMEX2.XLS worksheets ëdataí and ëdata (exp)í links between SIMEX2.XLS and SIMEX1.XLS do no longer exist. Thus, a genuine version of SIMEX2.XLS should be kept when running the simulation for non-symmetric travel demand.
+
+Activate SIMEX.XLS.
+
+	Click on     at the right upper corner of the screen.
+	If the simulation is run on another computer, select worksheet ëSimexí, select Cell R1C1 choose 	Macro in the Tools Menu and click on Run.
+
+
+The HSR Simulation Outputs
+
+
+Northbound   Open LA-SFO1.XLS and EXPRESS1.XLS in directory D:\HSR\LA-SFO.
+	Worksheet ëBilaní in LA-SFO1.XLS provides the Non-Stop Service Travel Demand Allocation 	as well as the Los Angeles-San Francisco Schedules.
+	Worksheet ëResultatsí in LA-SFO1.XLS provides the Non-Stop Service Load Factors and 	Revenues.
+	
+	Worksheet ëDemandí in EXPRESS1.XLS provides the Express Service Travel Demand 	Allocation for every OD Markets served as well as the Load Factors for every Segment of the 	new line. ëDemandí also shows the early morning travel demand on Secondary Markets from 	Bakersfield and Fresno which is not served by Los Angeles-San Francisco Services. When the 	level of the demand is high enough, additional services originating in Bakersfield or Fresno or 	leaving Los Angeles before 5 A.M. can be run.
+	Worksheet ëRevenueí in EXPRESS1.XLS provides the Express Service Revenues for every OD 	Markets served.
+	
+Southbound   Open SFO-LA1.XLS and EXPRESS2.XLS in directory D:\HSR\SFO-LA 
+Fleet Movements and Number of Trainsets required  Open LA-SFO1.XLS in directory D:\HSR\LA-SFO. Worksheet ëTrainsetí provides the fleet movements for trainsets based in San Francisco and Los Angeles as well as the number of trainsets required to provide services. This number is usually increased by 5% in order to take into account the non-disposability of a proportion of the total fleet due to defection or maintenance.
+	
+	Fleet movements can be simulated with different values for the minimal required time between 	two services as defined in SIMEX1.XLS Worksheet ëDataí Cell R14C7.
+	Open RAME.XLS in directory D:\HSR. Select Worksheet ëRefí and Cell R1C1. 
+	Enter the new value.
+	Click on     at the right upper corner of the screen.
+	If the simulation is run on another computer, select worksheet ëRameí, select Cell R3C2 choose 	Macro in the Tools Menu and click on Run.
+
+	
+Prior to run a new simulation, output files must be moved from the D:\HSR\LA-SFO or the D:\HSR\SFO-LA directory. They may be renamed and moved in the D:\HSR\OUTPUT  directory.
+
