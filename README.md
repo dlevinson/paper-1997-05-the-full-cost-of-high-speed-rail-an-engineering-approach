@@ -11,7 +11,7 @@
 
 ## Package Status
 
-- Pipeline state: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline state: `UPLOADED`
 - Package boundary: final paper reference plus locally retained HSR/full-cost analysis workbooks, model notes, table exports, and selected report/chapter lineage.
 - Audit timestamp: 2026-05-17 06:17:02 AEST
 
@@ -49,7 +49,7 @@ This package contains no human-subject microdata and no raw personally identifyi
 
 Generated: 2026-05-20 15:23:47 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
