@@ -1,5 +1,9 @@
 # The Full Cost Of High-Speed Rail: An Engineering Approach
 
+## Contribution
+
+This paper provides an engineering-based full-cost assessment of proposed high-speed rail between Los Angeles and San Francisco, combining infrastructure, fleet, operations, user time, noise, pollution, and accident costs. Its intermodal comparison finds high-speed rail better positioned against automobile travel in shorter markets than against air travel over the full corridor.
+
 ## Bibliographic Information
 
 - Row ID: `paper-1997-05`
